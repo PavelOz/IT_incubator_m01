@@ -5,12 +5,12 @@ import { font } from "../styles/Common";
 export const SectionTitle = styled.h2`
   ${font({
     family: "Josefin-Sans, sans-serif",
-    weight: 600,
+    weight: 400,
     Fmax: 36,
     Fmin: 30,
   })}
   text-align: center;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
 
   position: relative;
 
