@@ -30,4 +30,5 @@ const StyledTestimony = styled.section`
   ${S.IconWrapper} {
     margin: 40px 0 72px;
   }
+  position: relative;
 `;
